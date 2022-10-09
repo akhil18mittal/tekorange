@@ -1,0 +1,29 @@
+.banner-carousel .banner-carousel-item {
+    height: 850px;
+}
+
+.header-two {
+    padding: 0;
+}
+
+.header-two .logo img {
+    height: 112px;
+}
+
+.ts-facts-heading {
+    color: #ffb600 !important;
+}
+
+.header-two .navbar-fixed {
+  opacity: 0.8;
+}
+
+.ts-service-box-img img {
+  width: 60px;
+}
+
+.email {
+    color: #ffb600;
+    text-transform: lowercase;
+    text-align: center;
+}
